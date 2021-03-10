@@ -1,6 +1,6 @@
 Precisa ser utilizado alguma IDE para fazer o Build pro artefato.
 
-Como executar o arquivo JAV.
+Como executar o arquivo JAR.
 
 
 1 - Vai abrir uma janela para escolher uma pasta com todos os CSVs(Com o mesmo padrão) fazer um insert dentro de uma tabela.
