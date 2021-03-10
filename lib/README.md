@@ -1,0 +1,1 @@
+Códigos fonte(*.jar) de bibliotecas que são importadas nas classes.
